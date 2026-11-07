@@ -5,5 +5,14 @@ body{
     background-color: #FF0000;
     color: white;
     padding: 10px;
-    text-align: center;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+#logo{
+    width: 100px;
+    height: 100px;
 }
